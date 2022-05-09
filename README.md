@@ -28,5 +28,5 @@ O haga login como administrador con la cuenta siguiente:
 email: admin@example.com <br>
 password: 123456
 
-... y vea las funcionalidade que el site tiene para administradores también!
+... y vea las funcionalidades que el sitio tiene para administradores también!
 
